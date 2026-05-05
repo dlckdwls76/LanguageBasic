@@ -8,6 +8,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arraysort", "arraysort\arra
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OddEven", "OddEven\OddEven.vcxproj", "{70A2A6EA-376D-4456-BD54-5A546AAFF1F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "My_String", "My_String\My_String.vcxproj", "{205A40B0-AADE-472F-A496-A562AB5AB232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -48,5 +50,13 @@ Global
 		{70A2A6EA-376D-4456-BD54-5A546AAFF1F9}.Release|Win32.Build.0 = Release|Win32
 		{70A2A6EA-376D-4456-BD54-5A546AAFF1F9}.Release|x64.ActiveCfg = Release|x64
 		{70A2A6EA-376D-4456-BD54-5A546AAFF1F9}.Release|x64.Build.0 = Release|x64
+		{205A40B0-AADE-472F-A496-A562AB5AB232}.Debug|Win32.ActiveCfg = Debug|Win32
+		{205A40B0-AADE-472F-A496-A562AB5AB232}.Debug|Win32.Build.0 = Debug|Win32
+		{205A40B0-AADE-472F-A496-A562AB5AB232}.Debug|x64.ActiveCfg = Debug|x64
+		{205A40B0-AADE-472F-A496-A562AB5AB232}.Debug|x64.Build.0 = Debug|x64
+		{205A40B0-AADE-472F-A496-A562AB5AB232}.Release|Win32.ActiveCfg = Release|Win32
+		{205A40B0-AADE-472F-A496-A562AB5AB232}.Release|Win32.Build.0 = Release|Win32
+		{205A40B0-AADE-472F-A496-A562AB5AB232}.Release|x64.ActiveCfg = Release|x64
+		{205A40B0-AADE-472F-A496-A562AB5AB232}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
