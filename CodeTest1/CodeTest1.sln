@@ -26,6 +26,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Morse", "Morse\Morse.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RockSiccorsPaper", "RockSiccorsPaper\RockSiccorsPaper.vcxproj", "{E0DCA678-34C6-44B1-B6CA-24F7CCD0A426}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Balls", "Balls\Balls.vcxproj", "{908AEE9A-D2FF-4520-A4AB-05991E8BDA47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -138,5 +140,13 @@ Global
 		{E0DCA678-34C6-44B1-B6CA-24F7CCD0A426}.Release|Win32.Build.0 = Release|Win32
 		{E0DCA678-34C6-44B1-B6CA-24F7CCD0A426}.Release|x64.ActiveCfg = Release|x64
 		{E0DCA678-34C6-44B1-B6CA-24F7CCD0A426}.Release|x64.Build.0 = Release|x64
+		{908AEE9A-D2FF-4520-A4AB-05991E8BDA47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{908AEE9A-D2FF-4520-A4AB-05991E8BDA47}.Debug|Win32.Build.0 = Debug|Win32
+		{908AEE9A-D2FF-4520-A4AB-05991E8BDA47}.Debug|x64.ActiveCfg = Debug|x64
+		{908AEE9A-D2FF-4520-A4AB-05991E8BDA47}.Debug|x64.Build.0 = Debug|x64
+		{908AEE9A-D2FF-4520-A4AB-05991E8BDA47}.Release|Win32.ActiveCfg = Release|Win32
+		{908AEE9A-D2FF-4520-A4AB-05991E8BDA47}.Release|Win32.Build.0 = Release|Win32
+		{908AEE9A-D2FF-4520-A4AB-05991E8BDA47}.Release|x64.ActiveCfg = Release|x64
+		{908AEE9A-D2FF-4520-A4AB-05991E8BDA47}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
