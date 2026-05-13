@@ -4,7 +4,7 @@
 using namespace std;
 
 int solution(int balls, int share) {
-    int answer = 0
+    int answer = 0;
 
     
     
