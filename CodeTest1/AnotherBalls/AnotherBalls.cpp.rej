@@ -1,0 +1,8 @@
+diff a/CodeTest1/AnotherBalls/AnotherBalls.cpp b/CodeTest1/AnotherBalls/AnotherBalls.cpp	(rejected hunks)
+@@ -0,0 +1,6 @@
++
++int main(int argc, char* argv[])
++{
++    
++    return 0;
++}
