@@ -17,8 +17,6 @@ int solution(int n) {
     }
     
     a--;
-    
- 
 
     return a;
 }

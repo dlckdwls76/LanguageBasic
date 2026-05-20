@@ -44,6 +44,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaxAnswer", "MaxAnswer\MaxA
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Factorial", "Factorial\Factorial.vcxproj", "{2DC5FF7E-9ED0-4FF2-BD19-1A60C8EE296F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gather", "Gather\Gather.vcxproj", "{8BAE4516-DA75-4707-B7C0-E792C434498C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remove", "Remove\Remove.vcxproj", "{6537C906-32F8-405D-9E43-2C84C3897A3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -228,5 +232,21 @@ Global
 		{2DC5FF7E-9ED0-4FF2-BD19-1A60C8EE296F}.Release|Win32.Build.0 = Release|Win32
 		{2DC5FF7E-9ED0-4FF2-BD19-1A60C8EE296F}.Release|x64.ActiveCfg = Release|x64
 		{2DC5FF7E-9ED0-4FF2-BD19-1A60C8EE296F}.Release|x64.Build.0 = Release|x64
+		{8BAE4516-DA75-4707-B7C0-E792C434498C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BAE4516-DA75-4707-B7C0-E792C434498C}.Debug|Win32.Build.0 = Debug|Win32
+		{8BAE4516-DA75-4707-B7C0-E792C434498C}.Debug|x64.ActiveCfg = Debug|x64
+		{8BAE4516-DA75-4707-B7C0-E792C434498C}.Debug|x64.Build.0 = Debug|x64
+		{8BAE4516-DA75-4707-B7C0-E792C434498C}.Release|Win32.ActiveCfg = Release|Win32
+		{8BAE4516-DA75-4707-B7C0-E792C434498C}.Release|Win32.Build.0 = Release|Win32
+		{8BAE4516-DA75-4707-B7C0-E792C434498C}.Release|x64.ActiveCfg = Release|x64
+		{8BAE4516-DA75-4707-B7C0-E792C434498C}.Release|x64.Build.0 = Release|x64
+		{6537C906-32F8-405D-9E43-2C84C3897A3B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6537C906-32F8-405D-9E43-2C84C3897A3B}.Debug|Win32.Build.0 = Debug|Win32
+		{6537C906-32F8-405D-9E43-2C84C3897A3B}.Debug|x64.ActiveCfg = Debug|x64
+		{6537C906-32F8-405D-9E43-2C84C3897A3B}.Debug|x64.Build.0 = Debug|x64
+		{6537C906-32F8-405D-9E43-2C84C3897A3B}.Release|Win32.ActiveCfg = Release|Win32
+		{6537C906-32F8-405D-9E43-2C84C3897A3B}.Release|Win32.Build.0 = Release|Win32
+		{6537C906-32F8-405D-9E43-2C84C3897A3B}.Release|x64.ActiveCfg = Release|x64
+		{6537C906-32F8-405D-9E43-2C84C3897A3B}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
